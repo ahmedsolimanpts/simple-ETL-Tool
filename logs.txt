@@ -1,6 +1,25 @@
-2022-10-15 13:19:58.204325,    Start Reading Files Name
-2022-10-15 13:19:58.204749,    End Reading Files Name
-2022-10-15 13:19:58.204833,    Start Creating Data Frame
-2022-10-15 13:19:58.220493,    End Creating Data Frame
-2022-10-15 13:19:58.229667,    Start Creating Data Target File
-2022-10-15 13:19:58.282224,    End Creating Data Target File
+Time ,    Message
+2022-10-15 15:19:06.631515,    Start Reading Files Name
+2022-10-15 15:19:06.631958,    End Reading Files Name
+2022-10-15 15:19:06.632048,    Start Creating Data Frame
+2022-10-15 15:19:06.648669,    End Creating Data Frame
+2022-10-15 15:19:06.648805,    Start Creating Data Target File
+2022-10-15 15:19:06.673290,    End Creating Data Target File
+2022-10-15 15:19:25.783700,    Start Reading Files Name
+2022-10-15 15:19:25.783840,    End Reading Files Name
+2022-10-15 15:19:25.783935,    Start Creating Data Frame
+2022-10-15 15:19:25.784037,    Session Failed on 2022-10-15 15:19:25.783973
+2022-10-15 15:19:37.488377,    Start Reading Files Name
+2022-10-15 15:19:37.488490,    End Reading Files Name
+2022-10-15 15:19:37.488571,    Start Creating Data Frame
+2022-10-15 15:19:37.488662,    Session Failed on 2022-10-15 15:19:37.488606
+2022-10-15 15:19:56.589867,    Start Reading Files Name
+2022-10-15 15:19:56.589982,    End Reading Files Name
+2022-10-15 15:19:56.590064,    Start Creating Data Frame
+2022-10-15 15:19:56.590172,    Session Failed on 2022-10-15 15:19:56.590124
+2022-10-15 15:20:04.122647,    Start Reading Files Name
+2022-10-15 15:20:04.123073,    End Reading Files Name
+2022-10-15 15:20:04.123163,    Start Creating Data Frame
+2022-10-15 15:20:04.140014,    End Creating Data Frame
+2022-10-15 15:20:04.140129,    Start Creating Data Target File
+2022-10-15 15:20:04.164940,    End Creating Data Target File
